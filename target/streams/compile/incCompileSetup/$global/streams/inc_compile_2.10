@@ -1,0 +1,585 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+69 items
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Helpers$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Helpers.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Semantics$$anonfun$evalExpr$1.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Semantics$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Semantics.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Add$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$And$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$AssignEvent$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$AssignEvent.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Bool$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Bool.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CAssign$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CAssign.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CITE$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CITE.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CSeq$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CSeq.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CSkip$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CWhile$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CWhile.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Comm.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Const.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Div$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EConst$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EConst.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EOp1$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EOp1.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EOp2$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EOp2.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EVar$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EVar.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EmptyEvent$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Event.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Expr.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$IntegLevel$class.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$IntegLevel.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$LatticeElt$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$LatticeElt.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Level$class.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Level.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Mul$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Neg$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Not$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Num$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Num.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Op1.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Op2.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Or$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$P$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$S$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$SecLevel$class.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$SecLevel.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Sub$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$T$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$TermEvent$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$U$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$VConst$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$VConst.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Value.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$1.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckComm$1$$anonfun$apply$1.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckComm$1.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckComm$2$$anonfun$apply$2.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckComm$2.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckExpr$1.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$.class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types.class
+binary dependencies:
+8 items
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> /Users/rian/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> /Users/rian/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> /Users/rian/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> /Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> /Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> /Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+69 items
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Helpers
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Helpers$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Semantics
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Semantics$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Semantics$$anonfun$evalExpr$1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Add$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$And$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$AssignEvent
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$AssignEvent$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Bool
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Bool$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$CAssign
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$CAssign$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$CITE
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$CITE$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$CSeq
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$CSeq$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$CSkip$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$CWhile
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$CWhile$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Comm
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Const
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Div$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$EConst
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$EConst$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$EOp1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$EOp1$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$EOp2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$EOp2$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$EVar
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$EVar$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$EmptyEvent$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Event
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Expr
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$IntegLevel
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$IntegLevel$class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$LatticeElt
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$LatticeElt$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Level
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Level$class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Mul$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Neg$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Not$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Num
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Num$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Op1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Op2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Or$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$P$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$S$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$SecLevel
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$SecLevel$class
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Sub$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$T$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$TermEvent$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$U$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$VConst
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$VConst$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax$Value
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Types
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Types$
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Types$$anonfun$1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Types$$anonfun$typeCheckComm$1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Types$$anonfun$typeCheckComm$1$$anonfun$apply$1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Types$$anonfun$typeCheckComm$2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Types$$anonfun$typeCheckComm$2$$anonfun$apply$2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Types$$anonfun$typeCheckExpr$1
+used names:
+267 items
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> +
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> ::
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> <init>
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> ==
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> AnyRef
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> EmptyEvent
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Helpers
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Int
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Map
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Memory
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Nil
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> None
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> P
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Predef
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> RuntimeException
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> S
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> SecEnv
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Syntax
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> TermEvent
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> Trace
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> _1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> apply
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> asInstanceOf
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> conforms
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> e
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> gamma
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> get
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> getLowEvents
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> getPublicMem
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> i
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> immutable
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> isInstanceOf
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> kv
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> m
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> ne
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> package
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> rest
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> scala
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> sec
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> t
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> take
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> toList
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> toMap
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> x
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> &&
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> *
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> +
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> -
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> ->
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> /
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> ::
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> <init>
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> ==
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> ???
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Add
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> AnyRef
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> CSkip
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Comm
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Div
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> EmptyEvent
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Expr
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Memory
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Mul
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Neg
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Not
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Op1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Op2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Or
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Predef
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> RuntimeException
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Semantics
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Set
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Sub
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Syntax
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Trace
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Tuple2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> Value
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> _1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> _2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> _3
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> any2ArrowAssoc
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> asInstanceOf
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> b
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> b1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> b2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> c
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> c1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> c2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> doBinOp
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> doUnOp
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> e
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> e1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> e2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> evalComm
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> evalExpr
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> getOrElse
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> isInstanceOf
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> m
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> m1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> n
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> n1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> n2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> ne
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> op
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> package
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> scala
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> t
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> t1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> unary_!
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> unary_-
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> unchecked
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> v
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> v1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> v2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> x
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> ||
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> &&
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> <
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> <=
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> <init>
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> ==
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> A
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> AbstractFunction1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> AbstractFunction2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> AbstractFunction3
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Add
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> And
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Any
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> AnyRef
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> AssignEvent
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Bool
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Boolean
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> CAssign
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> CITE
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> CSeq
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> CSkip
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> CWhile
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Comm
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Const
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Div
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> EConst
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> EOp1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> EOp2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> EVar
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> EmptyEvent
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Event
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Expr
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Id
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Int
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> IntegLevel
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> LatticeElt
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Level
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> List
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Map
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Mul
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Neg
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> None
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Not
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Nothing
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Num
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Op1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Op2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Or
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> P
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Predef
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Product
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> S
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> ScalaRunTime
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> SecLevel
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Serializable
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Statics
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> String
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Sub
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Syntax
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> T
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> TermEvent
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> U
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> VConst
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> Value
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> _1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> _2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> _hashCode
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> _root_
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> _toString
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> asInstanceOf
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> b
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> c
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> c1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> c2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> e
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> e1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> e2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> eq
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> finalizeHash
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> integ
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> isInstanceOf
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> l2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> latticeMax
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> latticeMin
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> mix
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> n
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> ne
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> op
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> package
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> runtime
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> scala
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> sec
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> that
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> toString
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> typedProductIterator
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> v
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> x
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> ||
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> &&
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> <=
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> <init>
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> ==
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> AnyRef
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Boolean
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> CSkip
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Comm
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Expr
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Helpers
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Id
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> LatticeElt
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> P
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Predef
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> RuntimeException
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> S
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> SecEnv
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Set
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Syntax
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> T
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Tuple2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> Types
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> _1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> _2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> apply
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> asInstanceOf
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> c
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> c1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> c2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> checkL
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> d
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> d1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> d2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> e
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> e1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> e2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> forall
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> gamma
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> getOrElse
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> isInstanceOf
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> join
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> l
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> l1
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> l2
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> ne
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> package
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> pc
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> scala
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> typeCheckComm
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> typeCheckExpr
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> unchecked
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> union
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> x
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> y
+product stamps:
+69 items
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Helpers$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Helpers.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Semantics$$anonfun$evalExpr$1.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Semantics$.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Semantics.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Add$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$And$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$AssignEvent$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$AssignEvent.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Bool$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Bool.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CAssign$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CAssign.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CITE$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CITE.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CSeq$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CSeq.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CSkip$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CWhile$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$CWhile.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Comm.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Const.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Div$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EConst$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EConst.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EOp1$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EOp1.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EOp2$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EOp2.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EVar$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EVar.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$EmptyEvent$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Event.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Expr.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$IntegLevel$class.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$IntegLevel.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$LatticeElt$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$LatticeElt.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Level$class.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Level.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Mul$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Neg$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Not$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Num$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Num.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Op1.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Op2.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Or$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$P$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$S$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$SecLevel$class.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$SecLevel.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Sub$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$T$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$TermEvent$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$U$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$VConst$.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$VConst.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax$Value.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Syntax.class -> lastModified(1477687852000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$1.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckComm$1$$anonfun$apply$1.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckComm$1.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckComm$2$$anonfun$apply$2.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckComm$2.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$$anonfun$typeCheckExpr$1.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types$.class -> lastModified(1477884459000)
+/Users/rian/cs691PL/declassify_endorse/target/scala-2.10/classes/Types.class -> lastModified(1477884459000)
+source stamps:
+4 items
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> hash(2e14739f55caeb453b315bc759a9696f53e75877)
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> hash(fcb6362c07247ed390288fcc50d548f979b2fbd4)
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> hash(a8a4149ce8513457c68d89ee1ef871f1513c8b8a)
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> hash(7337a3c589de9d3c324f7b8261eb25faf7e1bd32)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1450828997000)
+/Users/rian/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> lastModified(1425002040000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/rian/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> scala.Predef$
+internal apis:
+4 items
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBvO8d7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cG79RjZ0AAZub3RpZnlzcQB+AAycWRqwdAAEd2FpdHNxAH4ADBWGbDN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMhxMirXQABmVxdWFsc3NxAH4ADL0u2rl0AAxhc0luc3RhbmNlT2ZzcQB+AAz9x2gfdAAMc3luY2hyb25pemVkc3EAfgAMb2nEoHQADSRpc0luc3RhbmNlT2ZzcQB+AAyz9pybdAAMZ2V0TG93RXZlbnRzc3EAfgAM9hAFtXQACW5vdGlmeUFsbHNxAH4ADFR+UTJ0AAxpc0luc3RhbmNlT2ZzcQB+AAxWqvmJdAALdHJhY2VQcmVmaXhzcQB+AAzilsIVdAACPT1zcQB+AAyPVcF0dAAFY2xvbmVzcQB+AAyeWkPVdAAIdG9TdHJpbmdzcQB+AAw7XgzVdAACIT1zcQB+AAxpARwldAAIZ2V0Q2xhc3NzcQB+AAznMacwdAAMZ2V0UHVibGljTWVtc3EAfgAMmHJH33QAAm5lc3EAfgAM39QPBHQAAmVxc3EAfgAMOH8TVnQAAiMjc3EAfgAM59qfh3QACGZpbmFsaXplc3EAfgAMhGrZJnQACGhhc2hDb2Rlc3EAfgAMxpye/HQAB0hlbHBlcnNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AY3NxAH4AXAF1cQB+AEAAAAAAcHNxAH4AXAF1cQB+AEAAAAAAcHNxAH4AXAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHt0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHxzcQB+AG90AANBbnlzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7dAAFc2NhbGFxAH4AgnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVgNDzaodXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQuFHOfVcrrRTsxW8dZqWlvU+dYdw==
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDul5BoAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKpTHUx0AAZub3RpZnlzcQB+AAz5YLa+dAAEd2FpdHNxAH4ADD08Yh50AA0kYXNJbnN0YW5jZU9mc3EAfgAM62ff0XQABmVxdWFsc3NxAH4ADGG4s3t0AAxhc0luc3RhbmNlT2ZzcQB+AAyZEE/YdAAMc3luY2hyb25pemVkc3EAfgAMdCDMdnQADSRpc0luc3RhbmNlT2ZzcQB+AAyZSrNndAAJU2VtYW50aWNzc3EAfgAMTRXCDXQABmRvVW5PcHNxAH4ADG2n5uJ0AAlub3RpZnlBbGxzcQB+AAyFmjpSdAAMaXNJbnN0YW5jZU9mc3EAfgAM5g11AnQAB2RvQmluT3BzcQB+AAyL0fBXdAACPT1zcQB+AAyzHjAedAAFY2xvbmVzcQB+AAwn8YQfdAAIZXZhbENvbW1zcQB+AAyvloXidAAIZXZhbEV4cHJzcQB+AAzfc/YKdAAIdG9TdHJpbmdzcQB+AAx6h5HNdAACIT1zcQB+AAyc2lKWdAAIZ2V0Q2xhc3NzcQB+AAxAG59MdAACbmVzcQB+AAynKS51dAARYXR0YWNrZXJLbm93bGVkZ2VzcQB+AAzYumUedAACZXFzcQB+AAzfk05HdAACIyNzcQB+AAzyP7NPdAAIZmluYWxpemVzcQB+AAz37t5cdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AB11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBheHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBgAHBzcQB+AGVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBpc3EAfgBgAHBzcQB+AGV1cQB+AEQAAAAAc3EAfgBgAHBzcQB+AGV1cQB+AEQAAAAAc3EAfgBgAHBzcQB+AGV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGh0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIZzcQB+AHl0AANBbnlzcQB+AH1zcQB+AIB1cQB+AIMAAAACc3EAfgCFdAAFc2NhbGFxAH4AjHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYGMc1FHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvVXNlcnMvcmlhbi9jczY5MVBML2RlY2xhc3NpZnlfZW5kb3JzZS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/LY2LAckftOQKI/MUNVI+Xmy+9Q=
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAExLYtAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAY3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHYsrdV0AAZWQ29uc3RzcQB+AAyyWfpfdAABZXNxAH4ADEPlCPd0AAZub3RpZnlzcQB+AAzgoaybdAAHdW5hcHBseXNxAH4ADDUF/9J0AAJJZHNxAH4ADHSb9JR0AARFT3Axc3EAfgAMtTP7g3QAB2N1cnJpZWRzcQB+AAyFjlKYdAAFTGV2ZWxzcQB+AAzLHdlUdAABeHNxAH4ADGTY5050AAZTeW50YXhzcQB+AAwQQM/jdAAKRW1wdHlFdmVudHNxAH4ADK5xUEZ0AANPcDJzcQB+AAwJu61EdAAEd2FpdHNxAH4ADEGOB6J0AAI8PXNxAH4ADK6d5rN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADD+GP7Z0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1R6HLHQABk1lbW9yeXNxAH4ADKBgPDB0AANOdW1zcQB+AAwpxWAwdAAKbGF0dGljZU1pbnNxAH4ADMqzahp0AAFuc3EAfgAMSUYPxXQAB2NvbXBvc2VzcQB+AAyee9N1dAAEam9pbnNxAH4ADIXLlDd0AAJlMXNxAH4ADKe2qad0AAxwcm9kdWN0QXJpdHlzcQB+AAy1HL3ldAAGZXF1YWxzc3EAfgAMRVxsLHQABUV2ZW50c3EAfgAM6zt1FnQABVRyYWNlc3EAfgAM3m4qlXQAAVRzcQB+AAzY+mCCdAADQWRkc3EAfgAMG3cheHQADGFzSW5zdGFuY2VPZnNxAH4ADKoADu50AAE8c3EAfgAMqos0enQAAVVzcQB+AAyWFlrCdAAKTGF0dGljZUVsdHNxAH4ADEQrDTF0AARFeHByc3EAfgAMm23jIHQABkVDb25zdHNxAH4ADFgoS0B0AAlUZXJtRXZlbnRzcQB+AAwmp0n9dAAMc3luY2hyb25pemVkc3EAfgAMyBbDvnQABEVPcDJzcQB+AAw58YSMdAADQW5kc3EAfgAMCSTqPHQADSRpc0luc3RhbmNlT2ZzcQB+AAz5OAvkdAAHYW5kVGhlbnNxAH4ADIgHemN0AAZ0dXBsZWRzcQB+AAzvYjN1dAAKbGF0dGljZU1heHNxAH4ADE42dhx0AAJjMnNxAH4ADDOO7L10AAdDQXNzaWduc3EAfgAMJI4ZoHQACGNhbkVxdWFsc3EAfgAMFxhHjnQAA011bHNxAH4ADEUvLlt0AA1wcm9kdWN0UHJlZml4c3EAfgAMo5qhGHQABVZhbHVlc3EAfgAMvmlNQnQACW5vdGlmeUFsbHNxAH4ADPPWyGh0AAtyZWFkUmVzb2x2ZXNxAH4ADIBfReZ0AARFVmFyc3EAfgAMal9jb3QABENJVEVzcQB+AAyXd/N5dAADc2Vjc3EAfgAMcc5JLXQADGlzSW5zdGFuY2VPZnNxAH4ADMHqoi50AAZDV2hpbGVzcQB+AAwlD1IxdAADTmVnc3EAfgAMO2LJJXQAAXZzcQB+AAyV4n1RdAAFaW50ZWdzcQB+AAznpG+rdAACYzFzcQB+AAzQSdpPdAAGPGluaXQ+c3EAfgAMcRDe03QABENvbW1zcQB+AAzvDAqjdAABYnNxAH4ADIPy/Wh0AAVhcHBseXNxAH4ADFf4PC50AARDU2Vxc3EAfgAMkueCG3QABUNTa2lwc3EAfgAMowyA53QAAj09c3EAfgAMkerc7XQABWNsb25lc3EAfgAMtMPTJnQAAVBzcQB+AAx/6Fe7dAAKSW50ZWdMZXZlbHNxAH4ADHEsNZZ0AANPcDFzcQB+AAwoT/+adAAGJGluaXQkc3EAfgAMF6DAdnQAA1N1YnNxAH4ADNwntIJ0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADPrvWvN0AAZTZWNFbnZzcQB+AAxPuEbJdAADTm90c3EAfgAMw9vLUHQABGNvcHlzcQB+AAz+Pg8SdAAIdG9TdHJpbmdzcQB+AAyLX9gtdAAIU2VjTGV2ZWxzcQB+AAyC3v2QdAAEbWVldHNxAH4ADKQEsJB0AAIhPXNxAH4ADB+wFS50AAFjc3EAfgAMshGBUnQABEJvb2xzcQB+AAzJ1pkCdAAIZ2V0Q2xhc3NzcQB+AAy9+TAJdAAOY29weSRkZWZhdWx0JDFzcQB+AAxgW/TWdAACZTJzcQB+AAz/5+iIdAACbmVzcQB+AAy26TdVdAACZXFzcQB+AAy/vkatdAAFQ29uc3RzcQB+AAz+QC9/dAADRGl2c3EAfgAMTEXFqHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADF2QX7Z0AAIjI3NxAH4ADPbAq0V0AAhmaW5hbGl6ZXNxAH4ADJo2ubx0AA5wcm9kdWN0RWxlbWVudHNxAH4ADHPKPSl0AAhoYXNoQ29kZXNxAH4ADLOnRbp0AAJPcnNxAH4ADL6ZQNt0AAFTc3EAfgAMtHMDv3QAC0Fzc2lnbkV2ZW50c3EAfgAMXNWvXHQAAm9wc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4A3XhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgD0AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgDdTAAJaW5oZXJpdGVkcQB+AN1MAAdwYXJlbnRzcQB+AN14cQB+APtzcQB+APQBdXEAfgDYAAAAAHBzcQB+APQBdXEAfgDYAAAAAHBzcQB+APQBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgD6dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgD6c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgETdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgEUc3EAfgEHdAADQW55c3EAfgELc3EAfgEOdXEAfgERAAAAAnNxAH4BE3QABXNjYWxhcQB+ARpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYDQ82qHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvVXNlcnMvcmlhbi9jczY5MVBML2RlY2xhc3NpZnlfZW5kb3JzZS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqKQUnOhRNFfGjYnuHvhx8VE8i4o=
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDUSNbnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFHa2xl0AAZub3RpZnlzcQB+AAysz7SpdAANdHlwZUNoZWNrRXhwcnNxAH4ADI7iP3N0AA10eXBlQ2hlY2tDb21tc3EAfgAMYlhaBnQABHdhaXRzcQB+AAyMxmbUdAANJGFzSW5zdGFuY2VPZnNxAH4ADMkoAOd0AAZlcXVhbHNzcQB+AAxW838adAAMYXNJbnN0YW5jZU9mc3EAfgAMlcCl9XQADHN5bmNocm9uaXplZHNxAH4ADK4w8N10AA0kaXNJbnN0YW5jZU9mc3EAfgAMygyIw3QACW5vdGlmeUFsbHNxAH4ADOZfdOJ0AAxpc0luc3RhbmNlT2ZzcQB+AAwd7TYqdAACPT1zcQB+AAxwkX3QdAAFY2xvbmVzcQB+AAzqzDY3dAAFVHlwZXNzcQB+AAyxRqPvdAAIdG9TdHJpbmdzcQB+AAz9kxWwdAACIT1zcQB+AAx+zV7sdAAIZ2V0Q2xhc3NzcQB+AAyNi8wndAACbmVzcQB+AAzVEqS0dAACZXFzcQB+AAy8igt+dAACIyNzcQB+AAyquBYKdAAIZmluYWxpemVzcQB+AAzpN1CRdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBbeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBaAHBzcQB+AF9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBjc3EAfgBaAHBzcQB+AF91cQB+AD4AAAAAc3EAfgBaAHBzcQB+AF91cQB+AD4AAAAAc3EAfgBaAHBzcQB+AF91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH90AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIBzcQB+AHN0AANBbnlzcQB+AHdzcQB+AHp1cQB+AH0AAAACc3EAfgB/dAAFc2NhbGFxAH4AhnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYGMc1FHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvVXNlcnMvcmlhbi9jczY5MVBML2RlY2xhc3NpZnlfZW5kb3JzZS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUczejxYnenTwyT3uCYesl+vfhvTI=
+external apis:
+0 items
+source infos:
+4 items
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Helpers.scala -> 
+AAAAAAAAAAA=
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Semantics.scala -> 
+AAAAAAAAAAA=
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Syntax.scala -> 
+AAAAAAAAAAA=
+/Users/rian/cs691PL/declassify_endorse/src/main/scala/Types.scala -> 
+AAAAAAAAAAA=
+compilations:
+15 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAdiZGl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAdktpx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAeOHZZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAeUYjN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAeaAlt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAevWFB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAews6B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAfBmWR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAzYdYB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAztQ4Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAztqmt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWAz9Ca51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWA0PLlB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWA0PNqh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWBjHNRR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9yaWFuL2NzNjkxUEwvZGVjbGFzc2lmeV9lbmRvcnNlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv

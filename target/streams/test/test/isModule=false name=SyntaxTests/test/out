@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mSyntaxTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- lt - secrecy levels[0m[0m
+[0m[[0minfo[0m] [0m[32m- leq - secrecy levels[0m[0m
+[0m[[0minfo[0m] [0m[32m- lt - integrity levels[0m[0m
+[0m[[0minfo[0m] [0m[32m- leq - integrity levels[0m[0m
+[0m[[0minfo[0m] [0m[32m- leq - lattice elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- join[0m[0m
+[0m[[0minfo[0m] [0m[32m- meet[0m[0m
