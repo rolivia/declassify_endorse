@@ -23,6 +23,7 @@ object Semantics{
     case EVar(x) => m.getOrElse(x, throw new RuntimeException("unbound variable: $x does not exist in memory"))
     case EOp1(op, e) => doUnOp(op, evalExpr(e, m))
     case EOp2(op, e1, e2) => doBinOp(op, evalExpr(e1, m), evalExpr(e2, m))
+    case EDeclassify(e) => ???
   }
 
   def evalComm(c: Comm, m: Memory, t: Trace): (Memory, Trace) = c match {
@@ -45,9 +46,10 @@ object Semantics{
       case VConst(Bool(false)) => evalComm(CSkip, m, t)
       case x => throw new RuntimeException("type error: got $x in loop guard")
     }
+    case CClass(params, body) => ???
+    case CNew(c, args) => ???
+    case CEndorse(x, e) => ???
   }
 
-
-  def attackerKnowledge(c: Comm, mP: Memory, l: Trace): Set[Memory] = ???
 
 }

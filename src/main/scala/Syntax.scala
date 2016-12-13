@@ -23,16 +23,23 @@ object Syntax {
   case class EVar(x: Id) extends Expr
   case class EOp1(op: Op1, e: Expr) extends Expr
   case class EOp2(op: Op2, e1: Expr, e2: Expr) extends Expr
+  case class EDeclassify(e: Expr) extends Expr
 
+
+  // sealed trait Attack
   sealed trait Comm
   case object CSkip extends Comm
   case class CAssign(x: Id, e: Expr) extends Comm
   case class CSeq(c1: Comm, c2: Comm) extends Comm
   case class CITE(e: Expr, c1: Comm, c2: Comm) extends Comm
   case class CWhile(e: Expr, c: Comm) extends Comm
+  case class CClass(params: List[String], body: Comm) extends Comm
+  case class CNew(c: CClass, args: List[Expr]) extends Comm
+  case class CEndorse(x: Id, e: Expr) extends Comm
 
   sealed trait Value
   case class VConst(c: Const) extends Value
+  case class VObj(fields: Map[String, Value]) extends Value
 
   sealed trait Level{
     def <[A<:Level](that: A): Boolean
